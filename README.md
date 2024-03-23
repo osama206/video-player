@@ -1,7 +1,7 @@
 # Video Player
 
 ## Description
-This is a video player application built using HTML, CSS, and JavaScript. It provides a more interactive and tailored video playback experience compared to the default browser video player.
+This repository contains code for a video player built using HTML, CSS, and JavaScript. The video player provides essential controls for playback, volume adjustment, playback speed, and fullscreen mode.
 
 ## Features
 - Play/pause functionality
